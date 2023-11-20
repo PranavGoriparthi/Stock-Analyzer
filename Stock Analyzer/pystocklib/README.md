@@ -142,9 +142,8 @@ result = news.get_result()
 
 ```
 
-# Credit
-- [AndrewRPorter](https://github.com/AndrewRPorter)
-- [parkus](https://github.com/parkus)
+
+
 
 # License
 [MIT License](https://github.com/mohabmes/pystocklib/blob/master/LICENSE) Copyright (c) 2018 mohabmes
